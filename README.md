@@ -1,4 +1,4 @@
 # mistborn-page
-First project landing a page for The Odin Project, this page will have the theme of mistborn by Brandon Sanderson
+my first page using html and css, what will it be about?
 
-bla bla bla testing
+Of course, the theme will be about Mistborn! a series of books writen by Brandon Sanderson
