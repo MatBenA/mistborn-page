@@ -27,7 +27,7 @@ body {
 }
 
 .header .content {
-    width: 1050px;
+    width: 1025px;
 
     display: flex;
     flex-direction: column;
@@ -229,7 +229,7 @@ button {
 }
 
 .information .body {
-    margin-bottom: 80px;
+    margin: 0px 25px 80px;
 
     display: flex;
     justify-content: center;
