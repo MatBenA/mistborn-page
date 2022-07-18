@@ -123,23 +123,17 @@ body {
     height: auto;
 }
 
-.information  .body .image{
+.header .body .image{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    text-align: center;
+
+    color: #E5E7EB;
+    font-weight: bolder;
 }
 
-.information .body .credits{
+.header .credits{
     display: flex;
     justify-content: center;
-    font-weight: 700;
-}
-
-.information .body .credits a{
-    font-weight: 700;
-    text-decoration: none;
-    color:#F9FAF8;
 }
 
 /*
