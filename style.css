@@ -395,6 +395,10 @@ button {
     border-radius: 8px;
 }
 
+.action-call a{
+    text-decoration: none;
+    color: #F9FAF8;
+}
 
 /*---------> FOOTER <---------*/
 
